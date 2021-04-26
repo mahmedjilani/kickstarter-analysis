@@ -10,13 +10,13 @@ The purpose of this analysis it to help Louise determine relationships between t
 
 
 ## Analysis & Challenges
-### Relation between Outcome with respect to their set goals.
+### Relationship - Outcomes vs Goal of the campaign
 To discover the relationship between the outcome of the campaign based on the goals, the basic line chart was drawn using excel with range of amount set for goal on x-axis and its respective percentage for the outcomes (successful, failed & cancelled) on the y-axis.
 
 ![Table Outcome vs Goals](https://user-images.githubusercontent.com/82117986/116015564-b9f8bc00-a607-11eb-8b02-2b9bfe8f4dad.png)
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82117986/116015570-bfee9d00-a607-11eb-9684-6bcd0819828d.png)
 
-### Relationship between outcome of the campaign & its launch month
+### Relationship - Outcome vs Launch Timeh
 The determine the relationship between the two variables again, the line chart was used with month of the year on x-axis and its outcome (successful, failed & cancelled) count on the y-axis.
 
 ![Table Outcome vs launch date](https://user-images.githubusercontent.com/82117986/116015595-d694f400-a607-11eb-8190-681ebc7743c2.png)
@@ -31,7 +31,8 @@ The chart shows that there is strong relationship between these two variables. T
 The chart shows the interesting relationship between the outcome of the theatre campaign and its launch time (month) of the year, based on which we can draw the below conclusions.
 1.	The best time to launch the theatre campaign is the month of May (start of the summer) and the worst time to launch the theatre campaign is the month of December (winter). The weather is the most significant factor in determining the success of the campaign because people enjoy being outdoor in summer and prefer to stay indoors during the winter.
 2.	The campaign failures hovered around 30% to 50% throughout the period in consideration.
-Limitation of the dataset.
+
+### Limitation of the dataset.
 The analysis of the outcomes based on launch dates shows that none of the plays were cancelled in the month of Oct. We can see as unexplained difference which needs further investigation to find out the reason behind this. Our dataset doesn not have any variable to justify this.
 
 ### Recommendations
