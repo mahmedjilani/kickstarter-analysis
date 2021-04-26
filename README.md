@@ -25,9 +25,9 @@ The determine the relationship between the two variables again, the line chart w
 
 
 ## Results
-### Conclusion for goal amount to be set for campaign.
+### Conclusion -  Goal amount to be set for campaign.
 The chart shows that there is strong relationship between these two variables. The campaign amount with goal set to the range of 45,000 to 49,999 failed totally. All of the campaigns between this range were failed with not even a single campaign success. The best range to set the goal for the campaign is less than 1000 with the highest probability of success. 
-### Conclusion for the best time of the year to launch the campaign.
+### Conclusion  - The best time of the year to launch the campaign.
 The chart shows the interesting relationship between the outcome of the theatre campaign and its launch time (month) of the year, based on which we can draw the below conclusions.
 1.	The best time to launch the theatre campaign is the month of May (start of the summer) and the worst time to launch the theatre campaign is the month of December (winter). The weather is the most significant factor in determining the success of the campaign because people enjoy being outdoor in summer and prefer to stay indoors during the winter.
 2.	The campaign failures hovered around 30% to 50% throughout the period in consideration.
